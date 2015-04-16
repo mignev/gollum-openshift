@@ -1,0 +1,4 @@
+.project
+.bundle
+vendor/bundle
+vendor/cache
